@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://39.98.54.93/wp_clear.ipa</string>
+					<string>http://39.98.54.93/wp_kernel.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>王牌</string>
+				<string>核心功能版</string>
 			</dict>
 		</dict>
 	</array>
